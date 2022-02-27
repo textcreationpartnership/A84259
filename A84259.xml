@@ -1,0 +1,187 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Exceeding joyfull newes from the Lord Sey. Being an exact relation of a great battell fought by the said L. Sey, Colonell Hampden, and Colonell Goodwin neer Worcester Septem. 21. against the Lord Coventry, that came to take possession of the said city. Likewise another victory obtained by the trained band of Cheshire against the Welchmen, with the number of them that were slaine in both battailes.  Also very good newes from the Earle of Warwicke, shewing his victorious proceedings from the 16. of September to the 23. of the same.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84259</idno>
+            <idno type="STC">Wing E3764</idno>
+            <idno type="STC">Thomason E118_32</idno>
+            <idno type="STC">ESTC R21914</idno>
+            <idno type="EEBO-CITATION">99871540</idno>
+            <idno type="PROQUEST">99871540</idno>
+            <idno type="VID">156106</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84259)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156106)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 21:E118[32])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Exceeding joyfull newes from the Lord Sey. Being an exact relation of a great battell fought by the said L. Sey, Colonell Hampden, and Colonell Goodwin neer Worcester Septem. 21. against the Lord Coventry, that came to take possession of the said city. Likewise another victory obtained by the trained band of Cheshire against the Welchmen, with the number of them that were slaine in both battailes.  Also very good newes from the Earle of Warwicke, shewing his victorious proceedings from the 16. of September to the 23. of the same.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Fowler,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Sept. 23. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Coventry, Thomas Coventry, --  Baron, 1606-1661.</term>
+               <term>Goodwin, Arthur, 1593 or 4-1643.</term>
+               <term>Hampden, John, 1594-1643.</term>
+               <term>Saye and Sele, William Fiennes, --  Viscount, 1582-1662.</term>
+               <term>Warwick, Robert Rich, --  Earl of, 1587-1658.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+               <term>Worcester (England) --  History, Military --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156106:1" rendition="simple:additions"/>
+            <p>Exceeding Joyfull Newes from the Lord <hi>SEY,</hi> Being an exact Relation of a great Battell fought by the ſaid L. <hi>Sey,</hi> Colonell <hi>Hampden,</hi> and Colonell <hi>Goodwin</hi> neer <hi>worceſter Septem.</hi> 2<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. againſt the Lord <hi>Coventry,</hi> that came to take poſſeſſion of the ſaid City.</p>
+            <p>Likewiſe another Victory obtained by the Trained Band of <hi>Cheſhire</hi> againſt the Welchmen, with the number of them that <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ine in both Battailes.</p>
+            <p>Alſo very good Newes from the Earle of <hi>Warwicke,</hi> ſhewing his victo<g ref="char:EOLhyphen"/>rious proceedi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gs from the 16. of <hi>Sep<g ref="char:EOLhyphen"/>tember</hi> to the 23. of the ſame.</p>
+            <p>LONDON, Printed for <hi>Henry Fowler, Sept.</hi> 23. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="newsbook">
+            <pb facs="tcp:156106:2"/>
+            <pb n="1" facs="tcp:156106:2"/>
+            <head>Exceeding True and Joyfull Newes from the Lord SAY.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE proceedings of the Cavaleers at <hi>Weſt<g ref="char:EOLunhyphen"/>cheſter</hi> and divers o<g ref="char:EOLhyphen"/>ther adjoining Coun<g ref="char:EOLunhyphen"/>ties hath beene very cruel and inhumane, committing divers out-rages there, as they have done formerly in other Coun<g ref="char:EOLhyphen"/>tries where they have taken their pro<g ref="char:EOLhyphen"/>greſſe in a moſt barbarous manner, and the Inhabitants and Trained Band of thoſe Countries ſeeing them more and more to
+<pb n="2" facs="tcp:156106:3"/>perſiſt in their inhumane actions, they re<g ref="char:EOLhyphen"/>ſolved amongſt themſelves to have a gene<g ref="char:EOLhyphen"/>rall meeting, and to conclude of thoſe par<g ref="char:EOLhyphen"/>ticulars that ſhould be for the ſafety and ſecurity of their lives and livings, and at their meeting they concluded of theſe par<g ref="char:EOLhyphen"/>ticulars: 1. That all thoſe that were a<g ref="char:EOLhyphen"/>ble to beare Armes, ſhould be forthwith ſummoned in. 2. That they ſhould bee daily exerciſed and trained up. 3. That they and every one of them ſhould forth<g ref="char:EOLhyphen"/>with <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>pear on the 19 of this month at <hi>Cheſter Heath,</hi> 5. miles from the City of <hi>Weſtcheſter,</hi> which was accordingly put in execution, and upon the 20 of this month the Cavaleers having information of their intentions, aſſembled together, and came with all ſpe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d to the ſ<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d Heath, where the T<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ained B<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d of <hi>Ch<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſhire,</hi> and divers Volunt<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ers <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of <hi>Lancaſhire</hi> were practi<g ref="char:EOLhyphen"/>zi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g and pu<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ing of themſelves in a po<g ref="char:EOLhyphen"/>ſture of warre but at the fir<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> approaching o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Cavaleers, the Parliament Forces,
+<pb n="3" facs="tcp:156106:3"/>(being the Trained Band) met them a<g ref="char:EOLhyphen"/>bout h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lfe a mile from the Heath, and at the firſt ſalu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ation ſlew ten of the Cava<g ref="char:EOLhyphen"/>leers, where there did enſue a great Bat<g ref="char:EOLhyphen"/>taile betwixt them, both ſides ſtriving for the victory, behaving of themſelves very ſtoutly and couragiouſly, but at the laſt the Welchmen and Cavaleers began to grow weary, and would gladly have gone to the Mountaines, but they could not, for the Parliaments Forces purſued them ſo cloſe, that they threw downe their Arms, and creed out for quarter, but there was many of them ſlaine in this Battell, and ſome chiefe Commanders taken priſoners divers of them being lately come from <hi>Ireland.</hi>
+            </p>
+            <p>Thus hath the Parliaments party ob<g ref="char:EOLhyphen"/>tained the day, and won the victory over the Welch Cavaleers, which I beleeve di<g ref="char:EOLhyphen"/>vers of their Country men will take war<g ref="char:EOLhyphen"/>ning by them, and learn how to keep with<g ref="char:EOLhyphen"/>in their own bounds and liberties.</p>
+         </div>
+         <div type="newsbook">
+            <pb n="4" facs="tcp:156106:4"/>
+            <head>Another Famous Battell obtained by the Lord <hi>Sey,</hi> Colonell <hi>Hampden,</hi> and Colonell <hi>Goodwin,</hi> together with his two ſons, over the Cava<g ref="char:EOLhyphen"/>valeers in <hi>Worceſterſhire.</hi>
+            </head>
+            <p>VPon the the 20. of this Month, the Lord <hi>Sey</hi> and the reſt had informa<g ref="char:EOLhyphen"/>tion that the Cavaleers were come to <hi>Worcester,</hi> and that they were reſolved to plunder the Towne, (but praiſed bee God they was prevented) for no ſooner had the Lord <hi>Sey</hi> received intelligence thereof, but he immediately advanced his Forces towards them, and comming neere the City, the Cavaleers came and met us, whereupon the Lord <hi>Sey</hi> demanded their intentions, they replying, that as they had taken poſſeſſion of the City, ſo would they keep it; whereupon Colonell <hi>Hamp<g ref="char:EOLhyphen"/>den</hi> drew out 200. men and charged them on the Reere and the left Flanke, and ha<g ref="char:EOLhyphen"/>ving played againſt them for the ſpace of
+<pb n="5" facs="tcp:156106:4"/>two houres, the Cavaleers ſounded a Re<g ref="char:EOLhyphen"/>treat, but the Parliaments Forces and Vo<g ref="char:EOLhyphen"/>lunteers being much incenſed againſt them, would not hearken thereto, but ſtill with their conſtant reſolution they conti<g ref="char:EOLhyphen"/>nued in Fight, inſomuch that there was a great ſlaughter amongſt the Cavaleers and thoſe that could get away, hid themſelves for the preſent.</p>
+            <p>Upon the 19 of this preſent month ty<g ref="char:EOLhyphen"/>dings was brought to the Earle of <hi>War<g ref="char:EOLhyphen"/>wicke</hi> being 3. leagues from the <hi>Downes</hi> that divers Ships lay hovering neer there<g ref="char:EOLhyphen"/>to, and that they doe make divers ſallyes towards the French coaſt, and it was ſup<g ref="char:EOLhyphen"/>poſed, that Sir <hi>John Pennington</hi> was in the ſaid Fleet, whereupon the Earle of <hi>War<g ref="char:EOLhyphen"/>wicke</hi> ſent out 7. faire Ships to ſcour thoſe parts, and upon the 20. of this month they hoyſed ſayle and tooke their coaſt toward <hi>Callis,</hi> where having ſallyed two leagues from the Earle of <hi>Warwickes</hi> Fleet, they eſpied a company of Ships hovering up and downe, and made towards them, who
+<pb n="6" facs="tcp:156106:5"/>comming neer unto them, they ſet a war<g ref="char:EOLhyphen"/>ning piece to know what they were, and for what parts they were bound, but they would not make anſwer, neither would they make their obeyſanc<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to His Maje<g ref="char:EOLhyphen"/>ſties Ships; whereupon the Earl of <hi>War<g ref="char:EOLhyphen"/>wicke</hi> commanded the Gu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ner to let flye another piece of Ordnance, and Sir <hi>John Pennrngton</hi> let flye at them again, inſomuch that they began to charge one another ve<g ref="char:EOLhyphen"/>ry furiouſly, then the Earles Ships began a broad ſide to them, which ſoon made en<g ref="char:EOLhyphen"/>trance into the enemies ſhips, ſo that after two or three houres fight, they were glad to betake themſelves to flight, but the Earles Ships purchaſed them, and ſunke two or three of them. The ſaid Earle hath declared, that he will aſſiſt both his Majeſty and the Parliament againſt thoſe Forces that are now gathered together in this Kingdome to hinder the peace of the ſame of the ſame.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
